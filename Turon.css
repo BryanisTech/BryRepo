@@ -82,18 +82,24 @@
 }
 
 .hero-content{
-    background-color: #a54545;
-    color: #333;
-    padding: 10px;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 150px;
     width: 80vh;
     height: 100vh;
-    
-    
+    text-align: center;
+}
+
+
+.special-text h2{
+    font-family: Segoe UI;
+
+
 
 
 }
-.hero-content img {
-    display: flex;
-    width: 40px;
-    height: auto;
+.hero-content h2 {
+    font-family: BBH Sans Bogle;
+    font-size: 50px;
+    color: #eb8080;
 }
